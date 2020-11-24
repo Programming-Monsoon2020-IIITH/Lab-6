@@ -5,9 +5,9 @@ This repository provides boiler plate code.
 
 ## Installation
 
-Clone the project from [this](https://github.com/Programming-Monsoon2020-IIITH/lab6.git) repository.
+Clone the project from [this](https://github.com/Programming-Monsoon2020-IIITH/Lab-6.git) repository.
 ```bash
-$ git clone https://github.com/Programming-Monsoon2020-IIITH/lab6.git
+$ git clone https://github.com/Programming-Monsoon2020-IIITH/Lab-6.git
 ```
 
 ## Setup
